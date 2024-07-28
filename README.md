@@ -1,4 +1,4 @@
 # gitDemo
 This is my Git Repository
 <br>
-Author-Teja Vorsu
+Author-Teja Vorsu(ricky_29)
